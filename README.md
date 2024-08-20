@@ -19,6 +19,6 @@ contaminada ou não.
 
 O arquivo principal do Programa está no:
 
-- "FiapOMSToDo.java"
+- "fiapOMS_ToDo.java"
 
 Localizado na pasta src
