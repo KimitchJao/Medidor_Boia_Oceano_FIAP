@@ -16,3 +16,9 @@ medidas, via atualização do Usuário, e listá-las.
 Com isso, o programa irá resultar na sanilização, ou
 poluição da região em Questão, dizendo se a mesma está
 contaminada ou não.
+
+O arquivo principal do Programa está no:
+
+- "FiapOMSToDo.java"
+
+Localizado na pasta src
